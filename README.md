@@ -1,4 +1,4 @@
- # Ayaka
+# Ayaka
 
 ![](./images/image.jpeg)
 
